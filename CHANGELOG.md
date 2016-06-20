@@ -1,5 +1,8 @@
 # Changelog
 
+## Version Next
+* Does not override expires_at property if passed into accessToken.create.
+
 ## v0.8.0 (1 August 2016)
 * Upgraded code to strict mode.
 * Upgraded all the code base to es6.
